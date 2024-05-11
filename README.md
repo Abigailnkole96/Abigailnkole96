@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Abigailnkole96, Welcome to my GitHub profile. I am an aspiring software developer with a deep passion for the tech industry. I am committed to learning, growing, and contributing to the world of software development.
-- 👀 I’m interested in technology and its ability to solve complex problems and make a positive impact on people's lives. Although I may not have professional experience yet, I am dedicated to honing my skills and continuously expanding my knowledge in the field. I believe in the power of self-learning and actively seek opportunities to enhance my understanding of software development concepts and industry trends.
-- 🌱 I’m currently learning DevOps and Software Engineering
-- 💞️ I’m looking to collaborate with teams or contribute to meaningful projects. I am open to internships, entry-level positions, and projects that allow me to learn and grow alongside experienced professionals. If you have any exciting opportunities or projects, feel free to reach out!
-- 📫 How to reach me, GitHub: github.com/Abigailnkole96
+- 👋 Hi, I’m @Abigailnkole96, Welcome to my GitHub profile. I transitioned from an aspiring software developer to a junior DevOps cloud engineer with a passion for leveraging technology to streamline operations and enhance software delivery pipelines. I thrive on learning and implementing cutting-edge solutions in the tech industry.
+
+- 👀 I’m fascinated by technology's potential to tackle intricate challenges and create positive impacts. Through my journey as a junior DevOps cloud engineer, I've experienced firsthand how technology can revolutionize workflows and optimize processes.
+
+- 🌱 I continue to deepen my expertise in DevOps practices and software engineering principles, ensuring seamless integration between development and operations while maintaining a robust infrastructure.
+
+- 💼 I’m actively seeking opportunities to collaborate with dynamic teams and contribute to impactful projects. Whether it's refining deployment strategies, optimizing infrastructure scalability, or automating workflows, I'm eager to contribute my skills and grow alongside seasoned professionals.
+
+- 📫 How to reach me: GitHub - github.com/Abigailnkole96
 
 <!---
 Abigailnkole96/Abigailnkole96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
